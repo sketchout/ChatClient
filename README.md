@@ -3,8 +3,13 @@ ChatClient
 
 
 ChatClient is connect to the StringBasedServer in Java.
+
 This is oriented from Win Form client.
+
 It has Socket Handle, UI Thread, Json Parser.
+
+
+
 
 1. Send message
 
